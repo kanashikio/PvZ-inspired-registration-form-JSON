@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "Ali",
+        "last_name": "Andres",
+        "email": "aliandres15@gmail.com",
+        "age": "15",
+        "player_name": "kimchi",
+        "password": "password12345"
+    },
+    {
+        "first_name": "John Steven",
+        "last_name": "Crisostomo",
+        "email": "cjohnsteven@gmail.com",
+        "age": "18",
+        "player_name": "Klux",
+        "password": "@createpassword"
+    },
+    {
+        "first_name": "Princess",
+        "last_name": "Santos",
+        "email": "santosk00@gmail.com",
+        "age": "18",
+        "player_name": "Princess_001",
+        "password": "newpassword000"
+    }
+]
